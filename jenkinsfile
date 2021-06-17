@@ -1,0 +1,13 @@
+pipeline {
+       agent any
+
+       stages {
+                  stage(“prepare”)   {
+                            steps {
+                                      }
+                    }
+                   stage(“build”)   {
+                              steps {
+                                       }
+                    }
+}
